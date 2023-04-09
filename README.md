@@ -9,7 +9,7 @@
 - 🔭 I’m currently student on IES EL LAGO , Madrid  
   
 
-- 🌱 I’m currently learning React Native and much more  
+- 🌱 I’m currently learning React Native ,Spring Boot and much more  
   
 
 

@@ -41,7 +41,7 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
 </div>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://icons8.com/icon/90519/spring-boot" alt="Git" height="75" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://icons8.com/icon/90519/spring-boot](https://e4developer.com/wp-content/uploads/2018/01/spring-boot.png)" alt="spring boot" height="75" /></a>
 ></table>  
 
 <br/>  
